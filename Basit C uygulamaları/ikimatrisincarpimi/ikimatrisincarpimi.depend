@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493842132 source:c:\users\erdasonur\desktop\c projeleri\codeblokss\ikimatrisincarpimi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

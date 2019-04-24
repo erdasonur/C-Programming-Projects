@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489905154 source:c:\users\erdasonur\desktop\c projeleri\rastgelesayi\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+

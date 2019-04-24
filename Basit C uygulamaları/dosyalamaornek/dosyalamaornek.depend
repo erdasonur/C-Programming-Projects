@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1495091693 source:c:\users\erdasonur\desktop\c projeleri\codeblokss\dosyalamaornek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

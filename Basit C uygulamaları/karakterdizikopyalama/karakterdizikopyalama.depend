@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495966804 source:c:\users\erdasonur\desktop\c projeleri\codeblokss\karakterdizikopyalama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

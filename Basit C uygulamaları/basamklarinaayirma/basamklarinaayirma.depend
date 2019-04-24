@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490594424 source:c:\users\erdasonur\desktop\c projeleri\codeblokss\basamklarinaayirma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

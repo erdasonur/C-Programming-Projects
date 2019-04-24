@@ -1,0 +1,17 @@
+Tanýmlamara yapýldý
+Dosya açma iþlemi ve main.c yi okuma iþlemi
+Dosya sonuna gelene kadar döndürmesini saðlayan fonksiyonu kullanýldý
+main.c yi harf harf okuyarak diziye atma iþlemi
+dosya kapama iþlemi
+yazýlacak dosya için yeni bi dosya açma iþlemi
+dizinin boyutuna kadar dönen döngü
+satýrdan sonraki karakterleri alma iþlemi
+satýr sonuna gelene kadar olan koþul
+dosyaya yazma iþlemi
+dosyada bir alt satýra geçme iþlemi
+dosyayý kapama iþlemi
+ TODO (erdasonur#1#): zdgvb ...
+wazdxfgh
+sdfgvbh
+sdcgh
+zsdfb
